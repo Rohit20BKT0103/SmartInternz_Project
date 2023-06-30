@@ -1,5 +1,5 @@
 # **Time Series Analysis For Bitcoin Price Prediction using Prophet**
-Video demo link: https://drive.google.com/file/d/16M7wr6_YEKhiwVEH7zBz7Vwns8PhUhz6/view?usp=sharing
+Video demo link: https://drive.google.com/file/d/16M7wr6_YEKhiwVEH7zBz7Vwns8PhUhz6/view?usp=drive_link
 
 Prophet is on PyPI, so you can use ```pip``` to install it.
 ```python
